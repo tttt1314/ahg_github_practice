@@ -1,0 +1,3 @@
+這個repo是用來練習github
+請大家使用pull request的方式新增一個任意檔案到自己名字的branch
+然後我會將大家的branch merge進main
