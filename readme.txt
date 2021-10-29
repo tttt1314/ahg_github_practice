@@ -9,3 +9,4 @@
 6. 在新增的branch中加入一個檔案，檔案名為:英文名.txt, 並commit進去
 7. push此branch到遠端repo(tony->origin/tony)
 8. pull request到共用repo(遠端repo/tony->共用repo/tony)
+
